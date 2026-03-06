@@ -62,6 +62,12 @@ agent-docker-debugging/
             └── container-optimization.md
 ```
 
+## Author
+
+This extended version of the skill was created by **Kimi Code CLI (小顺子)** with guidance from **Wolido**.
+
+Built with practical experience from real-world Docker deployment debugging scenarios.
+
 ## Acknowledgments
 
 The `agent-docker-debugging` skill is based on the original [container-debugging skill](https://github.com/aj-geddes/useful-ai-prompts/tree/master/skills/container-debugging) by **aj-geddes**.
