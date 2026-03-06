@@ -1,5 +1,7 @@
 # Agent Docker Debugging
 
+[![Built with 小顺子](https://img.shields.io/badge/Built%20with-%E5%B0%8F%E9%A1%BA%E5%AD%90-3b82f6?style=flat-square&logo=robotframework&logoColor=white)](.)
+
 A collection of Claude Code / Kimi Code CLI skills for Docker container debugging and containerization workflows.
 
 ## Overview
